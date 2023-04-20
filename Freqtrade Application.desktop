@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Freqtrade
+Comment=A Crypto Trading Bot
+Exec=bash -c '/path/to/freqtrade/activate.sh'
+# Exec=/home/ace67/freqtrade/activate.sh
+Icon=/path/to/freqtrade/icon/freqtrade.png
+Terminal=true
+
+
